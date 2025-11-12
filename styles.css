@@ -1,1 +1,51 @@
 /*  your css code here. If applicable */
+table, th, td {
+  border:1px solid black;
+	margin:10px
+}
+
+#para{
+	text-align:center;
+	padding-left:5px;
+	padding-rigtht:5px;
+	width:600px;
+}
+
+/*  your css code here. If applicable */
+body{
+
+	background-color: lightblue;
+	  margin: 0;
+      padding: 0;
+}
+
+table {
+      
+      margin-top: 20px;
+    }
+
+ tr:hover {
+      background-color: #f9f9f9;
+    }
+
+ td {
+      padding: 5px;
+    }
+
+    td img {
+      border-radius: 2px;
+    }
+
+
+#unit{
+text-align:center;
+	padding-top:4px;
+	padding-bottom:4px;
+	width:600px;
+	
+}
+.first{
+	width:200px;
+
+}
+
